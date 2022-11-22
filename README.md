@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-hw
+hw for stepik course
