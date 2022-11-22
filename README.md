@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-hw for stepik course asfasdf
+hw for stepik course 
